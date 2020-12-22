@@ -1,0 +1,7 @@
+{
+  "name": "ion-hemvit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
